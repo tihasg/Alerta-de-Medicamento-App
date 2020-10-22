@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Alerta De Medicamentos</string>
+
+    <string name="time">Horário:</string>
+    <string name="repeat">Repetir: </string>
+    <string name="hr">Horas</string>
+    <string name="menu_insert">Adicionar</string>
+    <string name="menu_delete">Remover</string>
+    <string name="alarm_cad">Agendar Alarme</string>
+    <string name="appwidget_text">Alerta Medicamento</string>
+
+    <!-- ImageView items -->
+    <string name="image_priority">Priority</string>
+    <string name="image_category">Category</string>
+    <string name="image_alarm">Procrastination Alarm</string>
+    <string name="image_repeat">Repetition</string>
+    <string name="image_up">Up</string>
+    <string name="image_down">Down</string>
+
+    <string name="pick_file">Pick file</string>
+    <string name="toast_pick_file_error">Unable to pick file. Check status of file manager.</string>
+
+</resources>

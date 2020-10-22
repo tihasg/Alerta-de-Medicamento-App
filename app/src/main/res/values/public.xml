@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public name="icon" id="0x7f020000" type="drawable" />
+    <public name="alarme_fila" id="0x7f030000" type="layout" />
+    <public name="alarme_lista" id="0x7f030001" type="layout" />
+    <public name="alarme_receptor" id="0x7f030002" type="layout" />
+    <public name="main" id="0x7f030003" type="layout" />
+    <public name="time" id="0x7f040000" type="string" />
+    <public name="repeat" id="0x7f040001" type="string" />
+    <public name="hr" id="0x7f040002" type="string" />
+    <public name="menu_insert" id="0x7f040003" type="string" />
+    <public name="menu_delete" id="0x7f040004" type="string" />
+    <public name="alarm_cad" id="0x7f040005" type="string" />
+    <public name="app_name" id="0x7f040006" type="string" />
+    <public name="ds_alarm" id="0x7f050000" type="id" />
+    <public name="ds_time" id="0x7f050001" type="id" />
+    <public name="nome_remedio" id="0x7f050002" type="id" />
+    <public name="dosa_gem" id="0x7f050003" type="id" />
+    <public name="btn_ok" id="0x7f050004" type="id" />
+    <public name="btn_postergar" id="0x7f050005" type="id" />
+    <public name="Nome_Remedio" id="0x7f050006" type="id" />
+    <public name="Edit_Nome_Remedio" id="0x7f050007" type="id" />
+    <public name="Dosagem" id="0x7f050008" type="id" />
+    <public name="Edit_Dosagem" id="0x7f050009" type="id" />
+    <public name="Edit_hora" id="0x7f05000a" type="id" />
+    <public name="chk_repeat" id="0x7f05000b" type="id" />
+    <public name="btn_cancel" id="0x7f05000c" type="id" />
+</resources>

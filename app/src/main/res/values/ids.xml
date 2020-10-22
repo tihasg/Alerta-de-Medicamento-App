@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="ds_alarm" type="id">false</item>
+    <item name="ds_time" type="id">false</item>
+    <item name="nome_remedio" type="id">false</item>
+    <item name="dosa_gem" type="id">false</item>
+    <item name="btn_ok" type="id">false</item>
+    <item name="btn_postergar" type="id">false</item>
+    <item name="Nome_Remedio" type="id">false</item>
+    <item name="Edit_Nome_Remedio" type="id">false</item>
+    <item name="Dosagem" type="id">false</item>
+    <item name="Edit_Dosagem" type="id">false</item>
+    <item name="Edit_hora" type="id">false</item>
+    <item name="chk_repeat" type="id">false</item>
+    <item name="btn_cancel" type="id">false</item>
+</resources>
